@@ -10,3 +10,6 @@ Code challenges
 - [ ] Error Handling
 - [ ] Build a web framework
 - [ ] Build a project with Echo go framework
+- [ ] Context Package
+- [ ] writing advanced test and coverage
+- [ ] Integerate with circle ci
